@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Taejin Choi
-- 🌱 Currently teaching myself Javascript.
+- 🌱 Currently building Hidama.
 - 📫 Feel free to contact me on here.
